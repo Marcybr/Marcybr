@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Márcia Cardoso.
 - 👀 I’m interested in SW Testing, and programming.
-- 🌱 I’m currently learning REST API tests, Devops and AWS Fundamentals.
+- 🌱 I’m currently learning REST API tests, Spring Framework, and AWS Fundamentals.
 - 📫 How to reach me: marcybr@gmail.com
 
 <!---
